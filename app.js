@@ -13,18 +13,10 @@ const sources = [
     {
         id: 'pittcsc',
         type: 'reader',
-        name: 'Pitt CSC - Summer 2024',
+        name: 'Pitt CSC - Summer 2026',
         description: 'The standard list. Official Pitt Computer Science Club repository.',
         url: 'https://raw.githubusercontent.com/pittcsc/Summer2024-Internships/dev/README.md',
         originalLink: 'https://github.com/pittcsc/Summer2024-Internships'
-    },
-    {
-        id: 'simplify',
-        type: 'reader',
-        name: 'Simplify Jobs List',
-        description: 'Massive, frequently updated list by Simplify Jobs.',
-        url: 'https://raw.githubusercontent.com/SimplifyJobs/Summer2024-Internships/dev/README.md',
-        originalLink: 'https://github.com/SimplifyJobs/Summer2024-Internships'
     },
 
     // --- EXTERNAL SITES (These open in New Tab) ---
